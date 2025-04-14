@@ -6,7 +6,7 @@
 <a href="https://github.com/PatrickDSants/fokusAlura/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/PatrickDSants/fokusAlura?style=for-the-badge"></a>
 <a href="https://github.com/PatrickDSants/fokusAlura/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/PatrickDSants/fokusAlura?style=for-the-badge"></a>
 <a href="https://github.com/PatrickDSants/fokusAlura/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/PatrickDSants/fokusAlura?style=for-the-badge"></a>
-<a href="https://github.com/PatrickDSants/fokusAlura"><img alt="GitHub license" src="https://img.shields.io/github/license/PatrickDSants/fokusAlura?style=for-the-badge"></a>
+<a href="https://github.com/PatrickDSants/fokusAlura"><img alt="Mit license" src="https://img.shields.io/github/license/PatrickDSants/fokusAlura?style=for-the-badge"></a>
 </p>
 
 ### Tópicos 
